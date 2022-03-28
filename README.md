@@ -19,11 +19,11 @@
 
 - 👇🏻行政区划地图
 
-<img src="img/document_image_rId11.png" alt="img" style="zoom:40%;" />
+<img src="docs/img/document_image_rId11.png" alt="img" style="zoom:40%;" />
 
-![img](img/document_image_rId12.png)
+![img](docs/img/document_image_rId12.png)
 
-<img src="img/document_image_rId13.png" alt="img" style="zoom:70%;" />
+<img src="docs/img/document_image_rId13.png" alt="img" style="zoom:70%;" />
 
 **中心城区(7个)：**
 
@@ -41,7 +41,7 @@
 
 - 👇🏻武汉地铁线路图
 
-![img](img/document_image_rId14.png)
+![img](docs/img/document_image_rId14.png)
 
 ## 湖北省行政区划
 
@@ -251,16 +251,16 @@
 
 # 上海
 
-![img](img/document_image_rId18.png)
+![img](docs/img/document_image_rId18.png)
 
  
 
-![img](img/document_image_rId19.png)
+![img](docs/img/document_image_rId19.png)
 
  
 
 # 深圳
 
-![document_image_rId21](img/document_image_rId21.png)
+![document_image_rId21](docs/img/document_image_rId21.png)
 
-![document_image_rId22](img/document_image_rId22.png)
+![document_image_rId22](docs/img/document_image_rId22.png)
