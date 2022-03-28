@@ -12,7 +12,5 @@
 - 一起(｡･∀･)ﾉﾞ嗨
 
   <img src="img/a7f701aed40bb4309fc007034004ff9e.gif" alt="a7f701aed40bb4309fc007034004ff9e" style="zoom: 33%;" />
-  
-  ------
-  
+  ------  
   🤝贡献者：[@CARLOSGP2021](https://github.com/CARLOSGP2021)、[@heyWFeng (程序员晚枫) ](https://github.com/heyWFeng)、[@tiancixiong](https://github.com/tiancixiong)
