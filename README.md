@@ -1,6 +1,6 @@
 🍳【地理】湖北 上海 广州 深圳
 
-家人们，我建了一个这个城市生活指南的[仓库](https://github.com/CARLOSGP2021/ChineseCities)，初衷是搜集各大城市的求职，生活，租房，交通的相关信息，为初到社会的社畜助力，希望有人能参与进来。😁
+家人们，我建了一个这个城市生活指南的[仓库](https://github.com/CARLOSGP2021/ChineseCities)，初衷是搜集各大城市的求职，生活，租房，买房，交通的相关信息，为初到社会的社畜助力，希望有人能参与进来。😁
 
 - [湖北](#湖北)
 - [上海](#上海)
@@ -10,9 +10,13 @@
 
 ## 湖北省地图
 
-<img src="img/document_image_rId11.png" alt="img" style="zoom:50%;" />![img](img/document_image_rId12.png)
+- 👇🏻行政区划地图
 
-<img src="img/document_image_rId13.png" alt="img" style="zoom:80%;" />
+<img src="img/document_image_rId11.png" alt="img" style="zoom:40%;" />
+
+![img](img/document_image_rId12.png)
+
+<img src="img/document_image_rId13.png" alt="img" style="zoom:70%;" />
 
 **中心城区(7个)：**
 
@@ -26,11 +30,13 @@
 
 光谷，武汉东湖高新开发区; 沌口，武汉经开区、临空区、长江新城
 
+
+
+- 👇🏻武汉地铁线路图
+
 ![img](img/document_image_rId14.png)
 
 ## 湖北省行政区划
-
-[行政区划十六湖北省](https://mp.weixin.qq.com/s/CRwHRSqd8z45-SO7c5lhHA)
 
   湖北省，简称鄂。
 
@@ -210,19 +216,25 @@
 
 林区：神农架林区 区号0719 ，车牌鄂P
 
+
+
 ## 武汉市介绍
 
 [武汉市各区有什么特点](http://www.wuhan.com/travel/21798.html)
 
 [知乎：武汉市各区有什么特点？](https://www.zhihu.com/question/328260217)
 
+
+
  ## 武汉买房经验
 
-👇以下内容来自博主： [@牧码 (tiancixiong) - Gitee.com](https://gitee.com/tiancixiong)       [@Tianci.Xiong (github.com)](https://github.com/tiancixiong)    
+👇以下内容来自博主： [@牧码 (tiancixiong) - Gitee.com](https://gitee.com/tiancixiong)       [@Tianci.Xiong - github.com)](https://github.com/tiancixiong)    
 
 [wuhan_house_experience_2021: 2021 武汉购房经验 (gitee.com)](https://gitee.com/tiancixiong/wuhan_house_experience_2021)
 
 [2021 武汉购房经验 (gitee.io)](https://tiancixiong.gitee.io/wuhan_house_experience_2021/#/)
+
+
 
 # 上海
 
