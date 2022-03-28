@@ -6,6 +6,7 @@
   - [Github主页](https://github.com/CARLOSGP2021)
   - [Gitee主页](https://gitee.com/gp21)
   - 微信公众号「**卡卡成长汇聚**」
+- 点击「[聊聊《做公众号》以来我俩发生了什么变化 ](https://mp.weixin.qq.com/s/7g-udFr5KpgzbG0ly7IExw)」了解我
   
 - 一起(｡･∀･)ﾉﾞ嗨
 
