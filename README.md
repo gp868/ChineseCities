@@ -1,6 +1,6 @@
 🍳【地理】湖北 上海 广州 深圳
 
-家人们，我建了一个这个城市生活指南的[仓库](https://github.com/CARLOSGP2021/ChineseCities)，初衷是搜集各大城市的求职，生活，租房，买房，交通的相关信息，为初到社会的社畜助力，希望有人能参与进来。😁
+家人们，我创建了一个城市生活指南的仓库：[Github仓库](https://github.com/CARLOSGP2021/ChineseCities)、[Gitee仓库](https://gitee.com/gp21)，初衷是搜集各大城市的求职，生活，租房，买房，交通的相关信息，为初到社会的社畜助力，希望有人能参与进来。😁🎨
 
 # 目录
 
