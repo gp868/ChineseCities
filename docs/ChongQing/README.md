@@ -1,9 +1,8 @@
 # 重庆
 
-👇以下内容来自博主：[@heyWFeng (程序员晚枫) ](https://github.com/heyWFeng)  
-
 我是2022年来重庆工作、定居的程序员晚枫。
 非常开心，有机会和楼主一起维护这个项目，在整理资料的过程中，我一直在心里问自己：
+
 - 我为什么选择了重庆？
 - 如果我给家人、朋友介绍重庆这个城市，我会介绍哪些方面？
 
@@ -28,3 +27,7 @@
 - 市政府：http://www.cq.gov.cn/
 - 税务局：http://chongqing.chinatax.gov.cn/cqtax/
 - 人力资源和社会保障局：http://rlsbj.cq.gov.cn/
+
+--------
+
+🤝贡献者：[@heyWFeng (程序员晚枫) ](https://github.com/heyWFeng)  
