@@ -6,7 +6,7 @@
   - [湖北](docs/湖北.md)
   - [上海](docs/上海.md)
   - [深圳](docs/深圳.md)
-  - [重庆]()
+  - [重庆](docs/ChongQing/README.md)
 
 ------
 
