@@ -11,7 +11,7 @@
   
 - 一起(｡･∀･)ﾉﾞ嗨
 
-  <img src="img/a7f701aed40bb4309fc007034004ff9e.gif" alt="a7f701aed40bb4309fc007034004ff9e" style="zoom: 33%;" />
+  <img src="https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202203301057663.gif" alt="a7f701aed40bb4309fc007034004ff9e" style="zoom: 33%;" />
 
 ------
 
