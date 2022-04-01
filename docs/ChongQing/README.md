@@ -15,7 +15,8 @@
 ## 重庆就业
 搜重庆时你会在网上发现很多类似某某公司在重庆设立西部总部的消息，但是经过调研发现，这些公司在重庆的软件开发岗很少，感觉重庆制造业偏多，互联网产业较少。
 - [重庆有哪些YYDS的互联网公司？](https://www.bilibili.com/video/BV1uT4y1i7J8)
-- [重庆互联网公司面试的正确打开方式？](https://www.bilibili.com/video/BV1Lq4y1Y7TK)
+- [重庆本土【互联网】公司名单](https://www.xiaohongshu.com/discovery/item/6245ca360000000021035996?share_from_user_hidden=true&xhsshare=CopyLink&appuid=611dcb820000000001014aca&apptime=1648778845)
+- [重庆本土【国企】公司名单](https://www.xiaohongshu.com/discovery/item/624650ba000000002103a050?share_from_user_hidden=true&xhsshare=CopyLink&appuid=611dcb820000000001014aca&apptime=1648778866)
 
 ## 重庆旅游
 - 解放碑
