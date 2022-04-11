@@ -17,6 +17,10 @@
 - [重庆有哪些YYDS的互联网公司？](https://www.bilibili.com/video/BV1uT4y1i7J8)
 - [重庆本土【互联网】公司名单](https://www.xiaohongshu.com/discovery/item/6245ca360000000021035996?share_from_user_hidden=true&xhsshare=CopyLink&appuid=611dcb820000000001014aca&apptime=1648778845)
 - [重庆本土【国企】公司名单](https://www.xiaohongshu.com/discovery/item/624650ba000000002103a050?share_from_user_hidden=true&xhsshare=CopyLink&appuid=611dcb820000000001014aca&apptime=1648778866)
+- [重庆本土【金融】公司名单](https://www.xiaohongshu.com/discovery/item/62471e2c0000000021034cd6?share_from_user_hidden=true&xhsshare=CopyLink&appuid=611dcb820000000001014aca&apptime=1649080062)
+- [重庆本土【车企】公司名单](https://www.xiaohongshu.com/discovery/item/62483545000000002103af63?share_from_user_hidden=true&xhsshare=CopyLink&appuid=611dcb820000000001014aca&apptime=1649080101)
+- [重庆本土【房地产】公司名单](http://xhslink.com/HbQfAg)
+- [重庆本土【航空】公司名单](https://www.xiaohongshu.com/discovery/item/62498645000000002103c505?share_from_user_hidden=true&xhsshare=CopyLink&appuid=611dcb820000000001014aca&apptime=1649080168)
 
 ## 重庆旅游
 - 解放碑
