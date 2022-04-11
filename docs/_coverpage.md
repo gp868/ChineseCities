@@ -1,4 +1,4 @@
-![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01dfba5bd6641ba801213dea5483d3.gif&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1652273986&t=9cdbfeebd2ba6be65abe1fa2db6763e4)
+<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01dfba5bd6641ba801213dea5483d3.gif&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1652273986&t=9cdbfeebd2ba6be65abe1fa2db6763e4" style="zoom: 25%;" />
 
 # 中国城市社畜生活指南
 
