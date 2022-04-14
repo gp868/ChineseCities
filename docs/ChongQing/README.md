@@ -22,6 +22,20 @@
 - [重庆本土【房地产】公司名单](http://xhslink.com/HbQfAg)
 - [重庆本土【航空】公司名单](https://www.xiaohongshu.com/discovery/item/62498645000000002103c505?share_from_user_hidden=true&xhsshare=CopyLink&appuid=611dcb820000000001014aca&apptime=1649080168)
 
+
+
+## 重庆教育
+- 重庆大学（985）
+- 西南大学（211）
+- 西南政法大学
+- 陆军军医大学
+- 重庆医科大学
+- 重庆邮电大学
+- 重庆交通大学
+- 四川外国语大学
+- 四川美术学院
+
+
 ## 重庆旅游
 - 解放碑
 - 观音桥
