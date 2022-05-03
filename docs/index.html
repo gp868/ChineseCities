@@ -13,6 +13,15 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <!-- 默认主题 -->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+    <!-- 切换白天/黑夜主题 -->
+    <link 
+        rel="stylesheet"
+        href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+        title="docsify-darklight-theme"
+        type="text/css"
+    />
+    <!-- Gitalk css -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 </head>
 
 <body>
@@ -68,6 +77,16 @@
           sidebarDisplayLevel: 1, // set sidebar display level
         }
     </script>
+    <!-- 黑暗主题切换 -->
+    <script 
+        src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
+        type="text/javascript">
+    </script>
+
+    <!-- 字数统计 -->
+    <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+    <!-- 文章末尾连续阅读插件 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <!-- plugins -->
     <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
     <!-- docsify的js依赖 -->
@@ -82,6 +101,49 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
     <!-- 页面滚动到顶部 -->>
     <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
+
+    <!-- 代码高亮 -->
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+    <!-- plugin：gitalk -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+    
+    <script>
+    title = location.hash.match(/#(.*?)([?]|$)/)
+    if (title != null) {
+        title = location.hash.match(/#(.*?)([?]|$)/)[1]
+    }
+    title = decodeURI(title.substring(1, title.length))
+    // 限制 50 个字符
+    if (title != null) {
+        title = decodeURI(title.substring(1, title.length))
+        if (title.length >= 50) {
+            title = title.substring(title.length - 50, title.length)
+        }
+    } else {
+        title = 'home page'
+    }
+    const gitalk = new Gitalk({
+        clientID: '22289f28faa4681110c9',
+        clientSecret: '71b9fd0f817157336fdbf17f7983edbd68272c69',
+        repo: 'comments-for-r2BAT',
+        owner: 'CARLOSGP2021',
+        admin: ['CARLOSGP2021'],
+        // facebook-like distraction free mode
+        distractionFreeMode: true,
+        title: title,
+        id: title,
+        //id: location.pathname
+    })
+    // 监听URL中hash的变化，如果发现换了一个MD文件，那么刷新页面，解决整个网站使用一个gitalk评论issues的问题。
+    window.onhashchange = function(event){
+       if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
+         location.reload()
+       }
+    }
+    </script>
 
 </body>
 
