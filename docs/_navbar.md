@@ -6,7 +6,7 @@
   - [武汉](武汉.md) 
   - [东莞](东莞.md)
   - [佛山](佛山.md)
-  - [重庆](重庆.md)
+  - [重庆](ChongQing/README.md)
 
 - 关注我
   - [Github](https://github.com/CARLOSGP2021)
