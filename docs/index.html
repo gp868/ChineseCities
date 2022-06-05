@@ -113,10 +113,10 @@
     if (title != null) {
         title = location.hash.match(/#(.*?)([?]|$)/)[1]
     }
-    title = decodeURI(title.substring(1, title.length))
+    title = decodeURI(title.substring(0, title.length))
     // 限制 50 个字符
     if (title != null) {
-        title = decodeURI(title.substring(1, title.length))
+        title = decodeURI(title.substring(0, title.length))
         if (title.length >= 50) {
             title = title.substring(title.length - 50, title.length)
         }
@@ -130,7 +130,7 @@
         owner: 'CARLOSGP2021',
         admin: ['CARLOSGP2021'],
         // facebook-like distraction free mode
-        distractionFreeMode: true,
+        distractionFreeMode: false,
         title: title,
         id: title,
         //id: location.pathname
