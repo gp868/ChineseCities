@@ -113,7 +113,7 @@
     if (title != null) {
         title = location.hash.match(/#(.*?)([?]|$)/)[1]
     }
-    title = decodeURI(title.substring(0, title.length))
+    title = decodeURI(title.substring(1, title.length))
     // 限制 50 个字符
     if (title != null) {
         title = decodeURI(title.substring(0, title.length))
