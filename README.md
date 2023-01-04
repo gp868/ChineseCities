@@ -1,4 +1,4 @@
-![image-20220414093246173](https://gcore.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202204140932335.png)
+![image-20220414093246173](https://gcore.jsdelivr.net/gh/gp868/myFigures/img/202204140932335.png)
 >  🎨本项目的初衷是合作汇集各大城市的互联网求职求职，生活，租房，买房，交通等信息，为初到社会的社畜助力。我一人力量毕竟有限，欢迎大家的参与！可加友链。
 
 - 点击👉[中国城市社畜生活指南](https://carlosgp2021.github.io/ChineseCities/#/)
@@ -14,7 +14,7 @@
 - 你可以在下列这些地方找到我：
   - [Github主页](https://github.com/CARLOSGP2021)
   - [Gitee主页](https://gitee.com/gp21)
-  - 微信公众号「[卡卡成长汇聚](https://gcore.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202203291453021.png)」
+  - 微信公众号「[卡卡成长汇聚](https://gcore.jsdelivr.net/gh/gp868/myFigures/img/202203291453021.png)」
 - 点击「[聊聊《做公众号》以来我俩发生了什么变化 ](https://mp.weixin.qq.com/s/7g-udFr5KpgzbG0ly7IExw)」、「[中国城市社畜生活指南出炉！](https://mp.weixin.qq.com/s/nar9tAnjRjiTh8PMANz_EA)」了解我
 
 
