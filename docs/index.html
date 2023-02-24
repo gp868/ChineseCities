@@ -20,8 +20,6 @@
         title="docsify-darklight-theme"
         type="text/css"
     />
-    <!-- Gitalk css -->
-    <link rel="stylesheet" href="//gcore.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 </head>
 
 <body>
@@ -62,19 +60,8 @@
                 noData: '找不到结果',
                 depth: 4,
                 hideOtherSidebarContent: false,
-                namespace: '中国城市社畜生活指南',
+                namespace: 'ChineseCities',
             }
-        }
-    </script>
-    <script>
-        window.$docsify = {
-          loadSidebar: true,
-          alias: {
-            '/.*/_sidebar.md': '/_sidebar.md',
-          },
-          subMaxLevel: 4,
-          ...
-          sidebarDisplayLevel: 1, // set sidebar display level
         }
     </script>
     <!-- 黑暗主题切换 -->
@@ -97,52 +84,13 @@
     <script src="//gcore.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
     <!--在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码-->
     <script src="//gcore.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-    <!-- 页面滚动到顶部 -->>
+    <!-- 页面滚动到顶部 -->
     <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
-
     <!-- 代码高亮 -->
     <script src="//gcore.jsdelivr.net/npm/prismjs@1/components/prism-cpp.js"></script>
     <script src="//gcore.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
     <script src="//gcore.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
-    <!-- plugin：gitalk -->
-    <script src="//gcore.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-    <script src="//gcore.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
     
-    <script>
-    title = location.hash.match(/#(.*?)([?]|$)/)
-    if (title != null) {
-        title = location.hash.match(/#(.*?)([?]|$)/)[1]
-    }
-    title = decodeURI(title.substring(1, title.length))
-    // 限制 50 个字符
-    if (title != null) {
-        title = decodeURI(title.substring(0, title.length))
-        if (title.length >= 50) {
-            title = title.substring(title.length - 50, title.length)
-        }
-    } else {
-        title = 'home page'
-    }
-    const gitalk = new Gitalk({
-        clientID: '22289f28faa4681110c9',
-        clientSecret: '71b9fd0f817157336fdbf17f7983edbd68272c69',
-        repo: 'comments-for-r2BAT',
-        owner: 'gp868',
-        admin: ['gp868'],
-        // facebook-like distraction free mode
-        distractionFreeMode: false,
-        title: title,
-        id: title,
-        //id: location.pathname
-    })
-    // 监听URL中hash的变化，如果发现换了一个MD文件，那么刷新页面，解决整个网站使用一个gitalk评论issues的问题。
-    window.onhashchange = function(event){
-       if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
-         location.reload()
-       }
-    }
-    </script>
-
 </body>
 
 </html>
